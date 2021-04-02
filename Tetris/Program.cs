@@ -295,7 +295,7 @@ namespace Tetris
         //    }
         //    Update();
         //}
-        public void Soltar() { }
+       
     }
 }
 
